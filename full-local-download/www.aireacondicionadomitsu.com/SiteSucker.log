@@ -1,0 +1,42 @@
+
+2020/11/04, 15:13:04 - ERROR: Download of "https://lirp-cdn.multiscreensite.com/",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/index.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:04 - ERROR: Download of "https://fonts.gstatic.com",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/index.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:05 - ERROR: Download of "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/index.html",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:06 - ERROR: Download of "https://fonts.gstatic.com",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/equipos.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:06 - ERROR: Download of "https://lirp-cdn.multiscreensite.com/",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/equipos.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:08 - ERROR: Download of "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/irp-cdn.multiscreensite.com/e8ba4f5d/files/e8ba4f5d_1.min-v=295.css",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:08 - ERROR: Download of "https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/irp-cdn.multiscreensite.com/e8ba4f5d/files/e8ba4f5d_1.min-v=295.css",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:10 - ERROR: Download of "https://fonts.gstatic.com",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/about-us.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:10 - ERROR: Download of "https://lirp-cdn.multiscreensite.com/",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/www.aireacondicionadomitsu.com/about-us.html",
+	failed with error code 404 (not found)
+2020/11/04, 15:13:20 - ERROR: Download of "https://irp-cdn.multiscreensite.com/editor/nee/images/common/bluePic.png",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/irp-cdn.multiscreensite.com/WIDGET_CSS/production_1473/183f10e9a6d5b3d5becf52cd414baf54.css",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:20 - ERROR: Download of "https://irp-cdn.multiscreensite.com/editor/nee/images/common/2ColumnsArrows.png",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/irp-cdn.multiscreensite.com/WIDGET_CSS/production_1473/183f10e9a6d5b3d5becf52cd414baf54.css",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:22 - ERROR: Download of "https://static-cdn.multiscreensite.com/fonts/dm-social-font.svg?mxo7pn",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/static-cdn.multiscreensite.com/mnlt/production/1473/_dm/s/rt/dist/css/css-font-package-v2.min.css",
+	failed with error code 403 (forbidden)
+2020/11/04, 15:13:22 - ERROR: Download of "https://static-cdn.multiscreensite.com/fonts/dm-font.svg?v=12",
+	referenced from "/Users/melandri/Development/Sites/www.aireacondicionadomitsu.com/static-cdn.multiscreensite.com/mnlt/production/1473/_dm/s/rt/dist/css/css-font-package-v2.min.css",
+	failed with error code 403 (forbidden)
+
+---------------------
